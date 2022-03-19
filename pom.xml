@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>td-release</name>
-	      <url>http://18.222.184.226:8081/repository/td-release/</url>
+	      <name>zelle2-release</name>
+	      <url>http://18.118.142.136:8081/repository/zelle2-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>td-snapshot </name>
-	      <url>http://18.222.184.226:8081/repository/td-snapshot/</url>
+	      <name>zelle-snapshot </name>
+	      <url>http://18.118.142.136:8081/repository/zelle-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
